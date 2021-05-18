@@ -17,7 +17,7 @@ Objective is to analyze the data to determine if the words used in the descripti
 6.	Conduct Explanatory data analysis (EDA). Comment on data distribution. 
 7.	Comment on required data transformation needed to get the data ready for input to the ML algorithm of your choice. Remember, all data available in the CSV document are of string data type. 
 8.	Complete all needed data transformation. Use TF-IDF method of transforming token to their respective numeric values. 
-9.	Apply the ML algorithm of your choice. Use an 8-/20 split for creating training and test dataset. 
+9.	Apply the ML algorithm of your choice. Use an 80/20 split for creating training and test dataset. 
 10.	Train the model using the training dataset. Comment on the overall model fit using evaluation metrics of your chosen ML algorithms. Comment on your findings and draw conclusions about the trained model’s accuracy and worthiness. 
 11.	Test/Evaluate your trained model with test dataset. Again, evaluate the model’s performance using the evaluation metrics available for your ML algorithm. Again, comment on your findings and draw conclusions about the model’s accuracy and worthiness in terms solving the problem you were trying to solve. 
 
