@@ -75,7 +75,7 @@ spark = SparkSession.builder.appName("NLP_5B_Data_Processing").getOrCreate()
 
 ```python
 #Reading the csv file data(Creating Corpus)
-Wine_DF = spark.read.csv("/Users/snehavarghese/Desktop/Second_Sem/Machine_Learning/Data/WineReviews.csv", inferSchema = True, header = True)
+Wine_DF = spark.read.csv("/Users/sowjanyakoka/Desktop/Machine_Learning/Data/WineReviews.csv", inferSchema = True, header = True)
 ```
 
 
